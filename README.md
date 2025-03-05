@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document explains how a JavaScript snippet is used to automatically select a specific radio button from a group of radio buttons on a web page. The script identifies all radio buttons, groups them by their `name` attribute, and selects a radio button based on a specified index.Made specifically for GIFT feedback form but can be used to automate any form with only radio buttons.
+This document explains how a JavaScript snippet is used to automatically select a specific radio button from a group of radio buttons on a web page. The script identifies all radio buttons, groups them by their `name` attribute, and selects a radio button based on a specified index.Made specifically for GIFT feedback form but can be used to automate any form with only radio buttons. Write 'allow pasting' in console to paste the code.
 
 ## Detailed Explanation
 
